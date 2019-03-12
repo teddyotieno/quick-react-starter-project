@@ -5,7 +5,11 @@
   "repository": "https://github.com/teddyotieno/quick-react-starter-project.git",
   "author": "Teddy Otieno <asolatotieno@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
   "devDependencies": {
+    "parcel-bundler": "^1.12.0",
     "prettier": "^1.16.4"
   }
 }
