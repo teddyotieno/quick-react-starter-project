@@ -1,0 +1,8 @@
+{
+  "name": "quick-react-starter-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/teddyotieno/quick-react-starter-project.git",
+  "author": "Teddy Otieno <asolatotieno@gmail.com>",
+  "license": "MIT"
+}
